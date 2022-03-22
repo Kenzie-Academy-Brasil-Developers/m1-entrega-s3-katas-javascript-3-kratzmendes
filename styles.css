@@ -1,0 +1,11 @@
+.kataDiv{
+    display:flex;
+    justify-content: left;
+    align-items:center;
+    flex-wrap: wrap;
+    font-family: 'Inter', sans-serif;
+}
+
+.kataBtn{
+    margin: 15px;
+}
