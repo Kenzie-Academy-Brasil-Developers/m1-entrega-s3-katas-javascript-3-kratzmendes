@@ -9,3 +9,14 @@
 .kataBtn{
     margin: 15px;
 }
+
+.bonusDiv{
+    display:flex;
+    justify-content: left;
+    align-items:center;
+    flex-wrap: wrap;
+    font-family: 'Inter', sans-serif;
+
+    visibility: hidden;
+    
+}
